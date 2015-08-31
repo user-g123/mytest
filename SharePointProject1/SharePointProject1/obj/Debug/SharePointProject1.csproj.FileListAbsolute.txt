@@ -1,0 +1,5 @@
+C:\Slava\IAEA\Research\gittest\SharePointProject1\SharePointProject1\bin\Debug\SharePointProject1.dll
+C:\Slava\IAEA\Research\gittest\SharePointProject1\SharePointProject1\bin\Debug\SharePointProject1.pdb
+C:\Slava\IAEA\Research\gittest\SharePointProject1\SharePointProject1\obj\Debug\SharePointProject1.csprojResolveAssemblyReference.cache
+C:\Slava\IAEA\Research\gittest\SharePointProject1\SharePointProject1\obj\Debug\SharePointProject1.dll
+C:\Slava\IAEA\Research\gittest\SharePointProject1\SharePointProject1\obj\Debug\SharePointProject1.pdb
